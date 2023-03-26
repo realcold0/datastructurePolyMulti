@@ -86,5 +86,6 @@ void main() {
     poly_multi(As, Ae, Bs, Be, &Cs, &Ce, terms2);
     printf("´ä  ===============================\n");
     print_poly(Cs, Ce, terms2);
+    system("PAUSE");
 
 }
